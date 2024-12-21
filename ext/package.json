@@ -1,0 +1,39 @@
+{
+  "_args": [
+    [
+      "ext@1.7.0",
+      "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom"
+    ]
+  ],
+  "_from": "ext@1.7.0",
+  "_id": "ext@1.7.0",
+  "_inBundle": false,
+  "_integrity": "sha512-6hxeJYaL110a9b5TEJSj0gojyHQAmA2ch5Os+ySCiA1QGdS697XWY1pzsrSjqA9LDEEgdB/KypIlR59RcLuHYw==",
+  "_location": "/ext",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ext@1.7.0",
+    "name": "ext",
+    "escapedName": "ext",
+    "rawSpec": "1.7.0",
+    "saveSpec": null,
+    "fetchSpec": "1.7.0"
+  },
+  "_requiredBy": [
+    "/es6-symbol"
+  ],
+  "_resolved": "https://registry.npmjs.org/ext/-/ext-1.7.0.tgz",
+  "_shrinkwrap": null,
+  "_spec": "1.7.0",
+  "_where": "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom",
+  "bundleDependencies": [],
+  "dependencies": {
+    "type": "^2.7.2"
+  },
+  "devDependencies": {},
+  "name": "ext",
+  "optionalDependencies": {},
+  "version": "1.7.0"
+}
