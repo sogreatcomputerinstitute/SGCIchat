@@ -1,0 +1,39 @@
+{
+  "_args": [
+    [
+      "bufferutil@4.0.8",
+      "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom"
+    ]
+  ],
+  "_from": "bufferutil@4.0.8",
+  "_id": "bufferutil@4.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-4T53u4PdgsXqKaIctwF8ifXlRTTmEPJ8iEPWFdGZvcf7sbwYo6FKFEX9eNNAnzFZ7EzJAQ3CJeOtCRA4rDp7Pw==",
+  "_location": "/bufferutil",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "bufferutil@4.0.8",
+    "name": "bufferutil",
+    "escapedName": "bufferutil",
+    "rawSpec": "4.0.8",
+    "saveSpec": null,
+    "fetchSpec": "4.0.8"
+  },
+  "_requiredBy": [
+    "/websocket"
+  ],
+  "_resolved": "https://registry.npmjs.org/bufferutil/-/bufferutil-4.0.8.tgz",
+  "_shrinkwrap": null,
+  "_spec": "4.0.8",
+  "_where": "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom",
+  "bundleDependencies": [],
+  "dependencies": {
+    "node-gyp-build": "^4.3.0"
+  },
+  "devDependencies": {},
+  "name": "bufferutil",
+  "optionalDependencies": {},
+  "version": "4.0.8"
+}
