@@ -1,0 +1,43 @@
+{
+  "_args": [
+    [
+      "websocket@1.0.35",
+      "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom"
+    ]
+  ],
+  "_from": "websocket@1.0.35",
+  "_id": "websocket@1.0.35",
+  "_inBundle": false,
+  "_integrity": "sha512-/REy6amwPZl44DDzvRCkaI1q1bIiQB0mEFQLUrhz3z2EK91cp3n72rAjUlrTP0zV22HJIUOVHQGPxhFRjxjt+Q==",
+  "_location": "/websocket",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "websocket@1.0.35",
+    "name": "websocket",
+    "escapedName": "websocket",
+    "rawSpec": "1.0.35",
+    "saveSpec": null,
+    "fetchSpec": "1.0.35"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/websocket/-/websocket-1.0.35.tgz",
+  "_spec": "1.0.35",
+  "_where": "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom",
+  "bundleDependencies": [],
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "debug": "^2.2.0",
+    "es5-ext": "^0.10.63",
+    "typedarray-to-buffer": "^3.1.5",
+    "utf-8-validate": "^5.0.2",
+    "yaeti": "^0.0.6"
+  },
+  "devDependencies": {},
+  "name": "websocket",
+  "optionalDependencies": {},
+  "version": "1.0.35"
+}

@@ -1,28 +1,32 @@
 {
-  "_from": "ws",
+  "_args": [
+    [
+      "ws@8.18.0",
+      "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom"
+    ]
+  ],
+  "_from": "ws@8.18.0",
   "_id": "ws@8.18.0",
   "_inBundle": false,
   "_integrity": "sha512-8VbfWfHLbbwu3+N6OKsOMpBdT4kXPDDB9cJk2bJ6mh9ucxdlnNvH1e+roYkKmN9Nxw2yjz7VzeO9oOz2zJ04Pw==",
   "_location": "/ws",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "ws",
+    "raw": "ws@8.18.0",
     "name": "ws",
     "escapedName": "ws",
-    "rawSpec": "",
+    "rawSpec": "8.18.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "8.18.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/ws/-/ws-8.18.0.tgz",
-  "_shasum": "0d7505a6eafe2b0e712d232b42279f53bc289bbc",
-  "_spec": "ws",
-  "_where": "C:\\Users\\Brian Akata\\Desktop\\node\\chat",
+  "_spec": "8.18.0",
+  "_where": "C:\\Users\\Brian Akata\\Desktop\\mychatwebsite\\chatroom",
   "author": {
     "name": "Einar Otto Stangvik",
     "email": "einaros@gmail.com",
@@ -32,8 +36,6 @@
   "bugs": {
     "url": "https://github.com/websockets/ws/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
   "devDependencies": {
     "benchmark": "^2.1.4",
